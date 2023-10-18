@@ -1,4 +1,9 @@
 i
 hi
+<<<<<<< HEAD
 everyone!fdvfdvfdvdfvdfvfdvf
 
+=======
+everyone
+my name is namu
+>>>>>>> 019debe102002d333bd9b02953a10431b2dd5b1e
